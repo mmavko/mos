@@ -1,0 +1,21 @@
+{
+  "name": "mosaic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-transform": "^1.0.1",
+    "concat-frames": "^1.0.3",
+    "gif-stream": "^1.1.0",
+    "jpg-stream": "github:mmavko/jpg-stream",
+    "pics": "^1.0.3",
+    "png-stream": "^1.0.5",
+    "resizer-stream": "^1.0.1"
+  }
+}
